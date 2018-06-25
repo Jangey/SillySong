@@ -6,5 +6,7 @@ Open the file in Xcode to test the app
 - Output: The song made by your name
 
 ScreenShot
-![](ScreenShot/1.png)
-![](ScreenShot/2.png)
+<img src = "ScreenShot/1.png" width = "300">
+<img src = "ScreenShot/2.png" width = "300">
+// ![](ScreenShot/1.png)
+// ![](ScreenShot/2.png)
